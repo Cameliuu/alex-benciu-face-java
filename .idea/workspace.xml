@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1afa5919-2d3f-4857-a0b3-c3522a300ee1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/benciu3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/benciu4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/benciu2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/benciu2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/benciu2/out.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/benciu2/out.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
@@ -57,7 +56,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677168560001</updated>
-      <workItem from="1677348695673" duration="2536000" />
+      <workItem from="1677348695673" duration="4173000" />
     </task>
     <servers />
   </component>

@@ -4,8 +4,8 @@ import java.io.*;
 
 public class Main {
     public static void main(String[] args) {
-        String path = "D:\\lucru_java_intellij\\benciu\\src\\benciu2\\in.txt";
-        String outpath = "D:\\lucru_java_intellij\\benciu\\src\\benciu2\\out.txt";
+        String path = "D:\\repos\\alex-benciu-face-java\\src\\benciu2\\in.txt";
+        String outpath = "D:\\repos\\alex-benciu-face-java\\src\\benciu2\\out.txt";
         float medie = 0;
         int nrel=0;
         int nr=0;
@@ -30,6 +30,8 @@ public class Main {
             String scrie ="Media este: " + medie + "\n" +"Minimul este: " + min + "\n Maximul este: " + max;
             System.out.println(scrie);
             flux_out.write(scrie);
+            flux_out.flush();
+            flux_out.close();
         } catch (Exception e) {
             System.out.println(e);
 

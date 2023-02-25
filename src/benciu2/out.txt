@@ -1,0 +1,3 @@
+Media este: 576.1111
+Minimul este: 1
+Maximul este: 5125
